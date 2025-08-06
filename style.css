@@ -403,12 +403,6 @@ footer small{
   margin-bottom: 15px;
   color: #e40017;
 
-  .about-text h4{
-  font-size: 22px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  color: #000000;
-}
 .about .about-content .about-text p{
   font-size: 16px;
   line-height: 25px;
@@ -1014,4 +1008,5 @@ body.dark .aside .nav li a{
     margin-top: 0px;
   }
 }
+
 
