@@ -1,3 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Font Awesome  */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css");
 
@@ -407,6 +430,9 @@ footer small{
   font-size: 20px;
   margin: 15px 0 10px 0;
   color: #000000;
+}
+.about-text p6 {
+  margin: 10px 0 10px 0;
 }
 .about .about-content .about-text p{
   font-size: 16px;
@@ -1013,6 +1039,7 @@ body.dark .aside .nav li a{
     margin-top: 0px;
   }
 }
+
 
 
 
