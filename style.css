@@ -511,6 +511,12 @@ footer small{
   font-weight: 700;
   color: #302e4d;
 }
+.about .about-content h4.title{
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  color: #302e4d;
+}
 .about .about-content .timeline-box{
   flex: 0 0 100%;
   -ms-flex: 0 0 100%;
@@ -1015,6 +1021,7 @@ body.dark .aside .nav li a{
     margin-top: 0px;
   }
 }
+
 
 
 
