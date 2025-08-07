@@ -717,7 +717,7 @@ footer small{
 .portfolio .portfolio-item .portfolio-item-inner .portfolio-info .icon{
   height: 40px;
   width: 40px;
-  margin-left: 130px;
+  margin-left: 110px;
   background-color: white;
   text-align: center;
   border-radius: 50%;
@@ -1021,6 +1021,7 @@ body.dark .aside .nav li a{
     margin-top: 0px;
   }
 }
+
 
 
 
