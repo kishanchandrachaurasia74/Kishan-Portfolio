@@ -709,7 +709,6 @@ footer small{
   opacity: 1;
 }
 .portfolio .portfolio-item-inner:hover .portfolio-info h4{
-  margin-left: 120px;
   opacity: 1;
    -webkit-transform: translateX(0px)
     transform: translateX(0px);
@@ -1022,6 +1021,7 @@ body.dark .aside .nav li a{
     margin-top: 0px;
   }
 }
+
 
 
 
